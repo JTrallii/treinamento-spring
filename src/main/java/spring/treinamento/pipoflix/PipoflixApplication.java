@@ -18,7 +18,6 @@ public class PipoflixApplication implements CommandLineRunner {
 
 		Principal principal = new Principal();
 		principal.exibeMenu();
-		
 	}
 }
 
